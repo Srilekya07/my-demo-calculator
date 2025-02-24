@@ -1,4 +1,5 @@
-# Simple Calculator
+# Simple Calculator ![Uploading image.png…]()
+
 
 This project is a simple web-based calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations as well as some advanced functions like logarithms, exponents, and square roots.
 
